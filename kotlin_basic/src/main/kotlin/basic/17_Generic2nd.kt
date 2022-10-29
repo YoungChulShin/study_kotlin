@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 // *를 이용해서 여러타입을 선언 가
 

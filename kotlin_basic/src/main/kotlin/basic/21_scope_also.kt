@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 class User(val name: String, val password: String) {
 

@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 fun String.first() : Char {
     // this -> receiver. 수신자 객체

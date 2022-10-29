@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 class MyGenerics<out T>(val t: T) {
 

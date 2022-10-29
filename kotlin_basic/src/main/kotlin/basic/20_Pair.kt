@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 data class Tuple(val a: Int, val b: Int)
 

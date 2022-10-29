@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 // equals, hashcode, toString, copy, componentN
 data class Person(val name: String, val age: Int)

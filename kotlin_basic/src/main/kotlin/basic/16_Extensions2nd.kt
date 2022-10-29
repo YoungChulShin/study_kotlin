@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 // 확장함수: 기존 클래스에 기능을 추가하는 방법
 fun String.getFirst() : Char {

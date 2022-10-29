@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 // sealed -> 컴파일 시점에 하위 클래스를 알 수 있다
 sealed class Developer {

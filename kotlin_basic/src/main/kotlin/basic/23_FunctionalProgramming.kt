@@ -1,4 +1,4 @@
-//package advanced
+package basic//package advanced
 //
 //// 함수형
 //// 동일한 값이 들어오면 항상 동일한 값을 리턴하는 순수 함수의 개념

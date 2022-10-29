@@ -1,4 +1,4 @@
-package advanced
+package basic
 
 // 스코프 함수
 // 객체의 컨텍스트 내에서 코드 블록을 실행하기 위해서만 존재는 함수
