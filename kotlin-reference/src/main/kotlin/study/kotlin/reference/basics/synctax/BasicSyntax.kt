@@ -1,4 +1,4 @@
-package study.kotlin.reference.basics
+package study.kotlin.reference.basics.synctax
 
 val PI = 3.14
 

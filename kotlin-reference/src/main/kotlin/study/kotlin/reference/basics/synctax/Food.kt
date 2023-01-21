@@ -1,4 +1,4 @@
-package study.kotlin.reference.basics
+package study.kotlin.reference.basics.synctax
 
 open class Food (private val name: String) {
 
