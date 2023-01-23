@@ -7,6 +7,7 @@ fun main() {
 
     // 명시적인 char 선언
     val b: Char = '2'
+    println(b)
 
     // 특수 문자
     val c = '\t'    // tab
